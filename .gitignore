@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+binded_oidc_id
+oidc_id
+plan
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
